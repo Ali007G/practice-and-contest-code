@@ -1,13 +1,6 @@
 /****************************************************
 *	Assignment-7									*
-*	============									*
-*													*
-*	Prepared By:									*
-*	1. Sadia Yeasmin(18)							*
-*	2. Suraiya Binte Farid(12)						*
-*	3. Shrestha Roy Chowdhuri(15)					*
-*													*
-*	Date of Submission: 							*
+*	============									*				*
 *****************************************************/
 
 
