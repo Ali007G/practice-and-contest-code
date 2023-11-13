@@ -3,13 +3,6 @@
 	=====================================
 	This program will convert a binary number to decimal and vice versa.
 
-	Prepared By: (Group - ##)
-	------------------------
-	1. Sadia Yeasmin(18)
-	2. Suraiya Binte Farid(12)
-	3. Shrestha Roy Chowdhuri(15)
-
-	Date of Submission: 10/01/2023
 	-------------------
 
 **/
